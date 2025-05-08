@@ -1,0 +1,6 @@
+📊 Dataset Source:
+
+🧠 The machine learning model in this project was trained using a publicly available weed vs. crop image dataset from Kaggle.
+The dataset contains labeled images of various weed and non-weed plant species, captured in real-world agricultural environments.
+
+You are free to use any similar dataset for training — Kaggle hosts several high-quality agricultural image datasets suitable for binary or multi-class plant classification tasks.
