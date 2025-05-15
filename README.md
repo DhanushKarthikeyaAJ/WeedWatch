@@ -96,7 +96,7 @@ This script uses `pyautogui` to send `"WEED"` or `"NON_WEED"` to the Serial Moni
 ## 🧠 Credits
 
 Built by [Dhanush Karthikeya A J](https://github.com/DhanushKarthikeyaAJ)  
-Contributions welcome!
+Contributed by [Prof. Vadiraja A](https://github.com/vadi84)
 
 ---
 
